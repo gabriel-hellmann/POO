@@ -1,10 +1,3 @@
-# Criar uma classe chamada de veículos,
-# onde tenham pelo menos 5 atributos.
-# Também devem ser criados 5 objetos nesta
-# classe, onde cada item deve ser cadastrado
-# via input
-
-
 class Veiculos:
     def __init__(self, cor, ano, modelo, placa, marca):
         self.cor = cor
