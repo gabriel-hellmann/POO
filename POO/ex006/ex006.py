@@ -1,9 +1,3 @@
-# Criar uma classe para uma lata de coca-cola.
-# A classe deve ter todos os atributos dimensionais,
-# e suas características de material.
-# As funcionalidades(métodos) da garrafa sao, abrir,
-# beber, esvaziar, amassar, retirar lacre, e descartar
-
 class Lata:
     def __init__(self,  diametro, altura, material, volume):
         self.diametro = diametro
